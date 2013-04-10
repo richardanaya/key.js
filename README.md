@@ -7,7 +7,11 @@ Usage
 ======
 
 ```Javascript
-if( Key.isDown(Key.W) ) { //do something }
+if( Key.isDown(Key.W) ) { 
+  //do something 
+}
 
-if( Key.isUp(Key.NUM_1) { //do something else }
+if( Key.isUp(Key.NUM_1) { 
+  //do something else 
+}
 ```
